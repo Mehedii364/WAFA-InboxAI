@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WAFA InboxAI</string>
+    <string name="app_tagline">Your Inbox. Your AI. Your Control.</string>
+    <string name="developer_credit">Developed by Mehedi364 (Md. Mehedi Hasan)</string>
+    <string name="notification_channel_followups_name">Follow-up Reminders</string>
+    <string name="notification_channel_followups_desc">Scheduled follow-ups, pending replies, and approval alerts from WAFA InboxAI.</string>
+    <string name="notification_channel_security_name">Security Alerts</string>
+    <string name="notification_channel_security_desc">Suspicious email, phishing, and credential vault alerts.</string>
+</resources>

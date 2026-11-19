@@ -1,0 +1,6 @@
+{
+  "name": "WAFA InboxAI",
+  "description": "AI-powered email management platform with multi-provider BYOK AI engine, intelligent model router, Gmail/Outlook integrations, modular AI agents, follow-up tracking, and Automation Studio. Developed by Mehedi364 (Md. Mehedi Hasan).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
